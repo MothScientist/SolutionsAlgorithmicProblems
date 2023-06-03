@@ -8,5 +8,4 @@ class Solution:
 
         if len3 % 2 != 0:
             return arr3[len3//2]
-        else:
-            return arr3[len3//2-1] / 2.0 + arr3[len3//2] / 2.0
+        return arr3[len3//2-1] / 2.0 + arr3[len3//2] / 2.0
