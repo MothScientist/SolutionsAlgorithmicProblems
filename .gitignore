@@ -4,6 +4,4 @@
 !*.js
 !*.sql
 !*.java
-!/Solutions/
-!/50 SQL/
-!/LeetCode 75/
+!/LeetCode/
