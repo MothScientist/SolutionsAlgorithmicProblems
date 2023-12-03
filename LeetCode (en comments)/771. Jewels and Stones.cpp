@@ -1,5 +1,4 @@
-// 771. Jewels and Stones
-// bad and fast solution
+// Bad and fast solution
 class Solution {
 public:
     int numJewelsInStones(string jewels, string stones) {

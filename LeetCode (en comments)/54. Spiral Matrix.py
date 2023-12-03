@@ -1,4 +1,3 @@
-# 54. Spiral Matrix
 class Solution:
     def spiralOrder(self, arr: List[List[int]]) -> List[int]:
         scr = []

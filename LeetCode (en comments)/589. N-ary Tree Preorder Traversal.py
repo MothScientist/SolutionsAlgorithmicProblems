@@ -1,6 +1,3 @@
-# 589. N-ary Tree Preorder Traversal
-# LeetCode Easy
-
 """
 # Definition for a Node.
 class Node:

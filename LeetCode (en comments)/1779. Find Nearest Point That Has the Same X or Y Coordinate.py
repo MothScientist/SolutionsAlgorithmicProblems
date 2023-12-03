@@ -1,4 +1,3 @@
-# 1779. Find Nearest Point That Has the Same X or Y Coordinate
 class Solution:
     def nearestValidPoint(self, x: int, y: int, points: List[List[int]]) -> int:
         dist = 10000

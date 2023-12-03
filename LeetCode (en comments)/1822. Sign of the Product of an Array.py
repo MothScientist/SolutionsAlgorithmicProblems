@@ -1,4 +1,3 @@
-# 1822. Sign of the Product of an Array
 class Solution:
     def arraySign(self, nums: List[int]) -> int:
         if 0 in nums:

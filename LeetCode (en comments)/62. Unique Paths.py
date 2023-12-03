@@ -1,6 +1,4 @@
-# 62. Unique Paths
-
-# iterative method
+# Iterative method
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
         dp = [[1] * n for _ in range(m)]
@@ -11,7 +9,7 @@ class Solution:
 
         return dp[m - 1][n - 1]
         
-# recursive method (Time Limit Exceeded, but the algorithm works correctly)
+# Recursive method (Time Limit Exceeded, but the algorithm works correctly)
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
         path = 0

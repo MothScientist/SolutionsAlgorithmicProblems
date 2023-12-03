@@ -1,7 +1,3 @@
-# 953. Verifying an Alien Dictionary
-
-# disgusting task, so the solution is not mine
-
 class Solution:
     def isAlienSorted(self, words: List[str], order: str) -> bool:
         d = {char:i for i,char in enumerate(order)}

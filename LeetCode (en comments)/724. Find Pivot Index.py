@@ -1,5 +1,3 @@
-# 724. Find Pivot Index
-
 class Solution:
     def pivotIndex(self, nums: List[int]) -> int:
         for i in range(len(nums)):

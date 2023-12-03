@@ -1,5 +1,3 @@
-# 1512. Number of Good Pairs
-
 class Solution:
     def numIdenticalPairs(self, nums: List[int]) -> int:
         scr = 0

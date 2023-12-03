@@ -1,5 +1,3 @@
-# 239. Sliding Window Maximum
-
 # Why collections.deque?
 
 # Though list objects support similar operations, 

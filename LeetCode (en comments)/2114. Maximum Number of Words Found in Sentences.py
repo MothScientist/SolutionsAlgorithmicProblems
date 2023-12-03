@@ -1,5 +1,3 @@
-# 2114. Maximum Number of Words Found in Sentences
-
 class Solution:
     def mostWordsFound(self, sentences: List[str]) -> int:
         max_len = 0

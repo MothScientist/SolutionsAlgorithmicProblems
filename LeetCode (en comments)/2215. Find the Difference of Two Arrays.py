@@ -1,5 +1,3 @@
-# 2215. Find the Difference of Two Arrays
-# Quick and bad decision
 class Solution:
     def findDifference(self, nums1: List[int], nums2: List[int]) -> List[List[int]]:
         answer = [[], []]

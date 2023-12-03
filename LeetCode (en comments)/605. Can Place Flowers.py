@@ -1,5 +1,3 @@
-# 605. Can Place Flowers
-
 class Solution:
     def canPlaceFlowers(self, flowerbed: List[int], n: int) -> bool:
         if len(flowerbed) == 1:

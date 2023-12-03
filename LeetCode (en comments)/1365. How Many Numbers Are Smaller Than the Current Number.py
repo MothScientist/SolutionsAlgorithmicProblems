@@ -1,5 +1,3 @@
-# 1365. How Many Numbers Are Smaller Than the Current Number
-
 class Solution:
     def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
         res = []

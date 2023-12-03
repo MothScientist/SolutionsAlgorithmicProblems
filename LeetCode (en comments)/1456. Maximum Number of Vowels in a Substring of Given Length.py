@@ -1,6 +1,3 @@
-# 1456. Maximum Number of Vowels in a Substring of Given Length
-
-# Someone else's corrected solution:
 class Solution:
     def maxVowels(self, s: str, k: int) -> int:
         count_vowels = 0

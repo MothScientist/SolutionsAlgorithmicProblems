@@ -1,4 +1,3 @@
-# 338. Counting Bits
 class Solution:
     def countBits(self, n: int) -> List[int]:
         def hamming_weight(n: int) -> int:

@@ -1,4 +1,3 @@
-# 213. House Robber II
 class Solution:
     def rob(self, nums: List[int]) -> int:
         if len(nums) < 4:

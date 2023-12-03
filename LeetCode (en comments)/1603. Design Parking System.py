@@ -1,4 +1,3 @@
-# 1603. Design Parking System
 class ParkingSystem:
     def __init__(self, big: int, medium: int, small: int):
         self.big = big

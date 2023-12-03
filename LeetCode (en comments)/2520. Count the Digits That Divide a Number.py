@@ -1,5 +1,3 @@
-# 2520. Count the Digits That Divide a Number
-
 class Solution:
     def countDigits(self, num: int) -> int:
         res = 0

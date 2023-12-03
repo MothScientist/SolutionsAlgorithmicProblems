@@ -1,4 +1,3 @@
-# 535. Encode and Decode TinyURL
 class Codec:
     urls = []
     def encode(self, longUrl: str) -> str:

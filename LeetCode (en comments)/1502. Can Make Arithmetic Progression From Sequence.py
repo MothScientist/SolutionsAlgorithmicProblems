@@ -1,4 +1,3 @@
-# 1502. Can Make Arithmetic Progression From Sequence
 class Solution:
     def canMakeArithmeticProgression(self, arr: List[int]) -> bool:
         arr.sort()

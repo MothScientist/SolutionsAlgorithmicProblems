@@ -1,4 +1,3 @@
-# 1528. Shuffle String
 class Solution:
     def restoreString(self, s: str, indices: List[int]) -> str:
         split_str = dict(zip(indices, list(s)))

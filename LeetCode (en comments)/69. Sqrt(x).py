@@ -1,5 +1,3 @@
-# 69. Sqrt(x)
-
 class Solution:
     def mySqrt(self, x: int) -> int:
         s = 1.0

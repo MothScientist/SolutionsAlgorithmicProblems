@@ -1,5 +1,3 @@
-// 1929. Concatenation of Array
-
 var getConcatenation = function(nums) {
     const res = [];
     for(let i= 0;  i< nums.length; i++) {

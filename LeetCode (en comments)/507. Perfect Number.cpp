@@ -1,5 +1,3 @@
-// 507. Perfect Number
-
 // Time Limit
 class Solution {
 public:
@@ -17,7 +15,7 @@ public:
     }
 };
 
-// Accepted (Not my)
+// Accepted
 class Solution {
 public:
     bool checkPerfectNumber(int num) {

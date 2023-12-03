@@ -1,4 +1,3 @@
-# 1356. Sort Integers by The Number of 1 Bits
 class Solution:
     def sortByBits(self, arr: List[int]) -> List[int]:
         def hammingWeight(n: int) -> int:

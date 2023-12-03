@@ -1,4 +1,3 @@
-// 976. Largest Perimeter Triangle
 class Solution {
 public:
     int largestPerimeter(vector<int>& nums) {

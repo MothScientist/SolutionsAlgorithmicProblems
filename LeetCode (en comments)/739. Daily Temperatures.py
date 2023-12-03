@@ -1,5 +1,3 @@
-# 739. Daily Temperatures
-
 class Solution:
     def dailyTemperatures(self, arr: List[int]) -> List[int]:
         stack = []

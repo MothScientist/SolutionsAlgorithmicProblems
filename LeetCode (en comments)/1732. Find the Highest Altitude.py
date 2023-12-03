@@ -1,5 +1,3 @@
-# 1732. Find the Highest Altitude
-
 class Solution:
     def largestAltitude(self, gain: List[int]) -> int:
         h = 0

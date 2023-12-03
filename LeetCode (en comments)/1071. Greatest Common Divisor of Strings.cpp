@@ -1,5 +1,3 @@
-// 1071. Greatest Common Divisor of Strings
-
 class Solution {
 public:
     string gcdOfStrings(string s1, string s2){

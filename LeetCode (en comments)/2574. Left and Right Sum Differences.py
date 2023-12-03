@@ -1,5 +1,3 @@
-# 2574. Left and Right Sum Differences
-
 class Solution:
     def leftRightDifference(self, nums: List[int]) -> List[int]:
         if len(nums) == 1:

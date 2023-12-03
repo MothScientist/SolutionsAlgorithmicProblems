@@ -1,5 +1,3 @@
-# 228. Summary Ranges
-
 class Solution:
     def summaryRanges(self, nums: List[int]) -> List[str]:
         if not nums:

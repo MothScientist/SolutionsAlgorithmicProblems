@@ -1,4 +1,3 @@
-# 1475. Final Prices With a Special Discount in a Shop
 class Solution:
     def finalPrices(self, prices: List[int]) -> List[int]:
         for i in range(len(prices)-1):

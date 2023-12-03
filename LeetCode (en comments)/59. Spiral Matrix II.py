@@ -1,4 +1,3 @@
-# 59. Spiral Matrix II
 class Solution:
     def generateMatrix(self, n: int) -> List[List[int]]:
         arr = [[i for i in range(n)] for j in range(n)]

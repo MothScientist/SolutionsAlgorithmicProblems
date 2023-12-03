@@ -1,5 +1,3 @@
-// 1732. Find the Highest Altitude
-
 class Solution {
 public:
     int largestAltitude(vector<int>& gain) {

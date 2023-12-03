@@ -1,12 +1,12 @@
-// 509. Fibonacci Number
-
-/* I wrote this solution to the problem a few years ago, 
+/* 
+I wrote this solution to the problem a few years ago, 
 when my experience in programming was just a couple of days, 
-so the solution is bad, but added for the sake of nostalgia :) */
+so the solution is bad, but added for the sake of nostalgia :)
 
-// But seriously, here we need a standard algorithm with caching results
+But seriously, here we need a standard algorithm with caching results
 
-// But the fact that this solution has 100% runtime makes me laugh
+But the fact that this solution has 100% runtime makes me laugh 
+*/
 
 class Solution {
 public:

@@ -1,4 +1,3 @@
-# 2129. Capitalize the Title
 class Solution:
     def capitalizeTitle(self, title: str) -> str:
         answer = title.lower().split()
