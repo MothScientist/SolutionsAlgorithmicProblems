@@ -1,8 +1,8 @@
-*
 !*.py
 !*.c
 !*.cpp
 !*.js
+!*.ts
 !*.sql
 !*.java
 !/LeetCode (en comments)/
