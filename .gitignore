@@ -2,10 +2,12 @@
 !*.py
 !*.c
 !*.cpp
+!*.java
 !*.js
 !*.ts
+!*.rb
+!*.rs
 !*.sql
-!*.java
 !/LeetCode (en comments)/
 
 !code.gif
