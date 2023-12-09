@@ -1,4 +1,5 @@
 *
+
 !*.py
 !*.c
 !*.cpp
@@ -8,7 +9,9 @@
 !*.rb
 !*.rs
 !*.sql
+
 !/LeetCode (en comments)/
+!/Yandex. Algorithm 4.0 training (ru comments)/
 
 !code.gif
 !README.MD
