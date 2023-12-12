@@ -9,9 +9,11 @@
 !*.rb
 !*.rs
 !*.sql
+!*.txt
 
 !/LeetCode (en comments)/
 !/Yandex. Algorithm 4.0 training (ru comments)/
+!/Yandex. Algorithm 4.0 training (ru comments)/0_F_elevator_test_cases/
 
 !code.gif
 !README.MD
