@@ -1,9 +1,3 @@
-# LeetCode Easy
-# Not my solution
-
-# Find slope for first two points, point1 and point2
-# Then compare the slopes of all other points to this slope
-
 def check_straight_line(coordinates: list[list[int]]) -> bool:
     (x1, y1), (x2, y2) = coordinates[0], coordinates[1]
 
